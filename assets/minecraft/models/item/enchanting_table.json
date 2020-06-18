@@ -1,0 +1,9 @@
+{
+    "parent": "item/template/enchanting_table",
+    "textures": {
+        "bottom": "block/enchanting_table_bottom",
+        "top": "block/enchanting_table_top",
+        "side": "block/enchanting_table_side",
+        "book": "entity/enchanting_table_book"
+    }
+}

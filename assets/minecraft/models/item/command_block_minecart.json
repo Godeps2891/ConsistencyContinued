@@ -1,0 +1,11 @@
+{
+    "parent": "item/template/command_block_minecart",
+    "textures": {
+        "minecart": "entity/minecart",
+        "up": "block/command_block_side",
+        "north": "block/command_block_side",
+        "south": "block/command_block_side",
+        "east": "block/command_block_front",
+        "west": "block/command_block_back"
+    }
+}

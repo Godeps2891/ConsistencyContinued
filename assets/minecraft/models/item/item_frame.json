@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/item_frame",
+    "textures": {
+        "back": "block/item_frame",
+        "wood": "block/birch_planks"
+    }
+}

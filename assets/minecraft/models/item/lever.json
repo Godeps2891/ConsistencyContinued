@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/lever",
+    "textures": {
+        "base": "block/cobblestone",
+        "lever": "block/lever"
+    }
+}

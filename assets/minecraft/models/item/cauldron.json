@@ -1,0 +1,9 @@
+{
+    "parent": "item/template/cauldron",
+    "textures": {
+        "top": "block/cauldron_top",
+        "bottom": "block/cauldron_bottom",
+        "side": "block/cauldron_side",
+        "inside": "block/cauldron_inner"
+    }
+}

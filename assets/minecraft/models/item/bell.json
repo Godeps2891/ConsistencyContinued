@@ -1,0 +1,9 @@
+{
+    "parent": "item/template/bell",
+    "textures": {
+        "bar": "block/dark_oak_planks",
+        "top": "block/bell_top",
+        "bottom": "block/bell_bottom",
+        "side": "block/bell_side"
+    }
+}

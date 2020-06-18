@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/sea_pickle",
+    "textures": {
+        "pickle": "block/sea_pickle"
+    }
+}

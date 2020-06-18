@@ -1,0 +1,16 @@
+{
+    "parent": "item/orientation/pane",
+    "elements": [
+        {   "from": [ 0, 0, 7 ],
+            "to": [ 16, 16, 9 ],
+            "faces": {
+                "down":  { "uv": [ 7, 16, 9, 0 ], "texture": "#edge", "rotation": 270 },
+                "up":    { "uv": [ 7, 0, 9, 16 ], "texture": "#edge", "rotation": 90 },
+                "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#pane" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#pane" },
+                "west":  { "uv": [ 7, 0, 9, 16 ], "texture": "#edge" },
+                "east":  { "uv": [ 9, 0, 7, 16 ], "texture": "#edge" }
+            }
+        }
+    ]
+}

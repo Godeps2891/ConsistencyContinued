@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/tripwire_hook",
+    "textures": {
+        "hook": "block/tripwire_hook",
+        "wood": "block/oak_planks"
+    }
+}

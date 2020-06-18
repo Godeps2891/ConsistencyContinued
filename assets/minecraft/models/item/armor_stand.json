@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/armor_stand",
+    "textures": {
+        "wood": "entity/armorstand/wood"
+    }
+}

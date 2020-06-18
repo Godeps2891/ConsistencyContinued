@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/campfire",
+    "textures": {
+        "particle": "block/campfire_log",
+        "log": "block/campfire_log"
+    }
+}
