@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0.1 - 2020-7-15
+### Changed
+- Added shield blocking model to fix reverting to original model
+
+
 ## 3.0.0 - 2020-6-23
 ### Added
 - Armor Stand
