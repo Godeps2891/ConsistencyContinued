@@ -1,9 +1,14 @@
 # Changelog
 
+## 3.0.2 - 2020-8-13
+### Changed
+- Fixed door mirroring in offhand slot
+- Flipped door in 1st/3rd person
+- Updated pack_format to 6 for 1.16.2+ support
+
 ## 3.0.1 - 2020-7-15
 ### Changed
 - Added shield blocking model to fix reverting to original model
-
 
 ## 3.0.0 - 2020-6-23
 ### Added
