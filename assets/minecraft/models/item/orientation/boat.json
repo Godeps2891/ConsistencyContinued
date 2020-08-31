@@ -20,8 +20,18 @@
             "translation": [ 2.92, 6.29, -1.25 ],
             "scale": [ 0.375, 0.375, 0.375 ]
         },
+        "thirdperson_lefthand": {
+            "rotation": [ 75, 45, 45 ],
+            "translation": [ 2.92, 6.29, -1.25 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        },
         "firstperson_righthand": {
             "rotation": [ 0, 225, -45 ],
+            "translation": [ 4, 0, -4 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 45, 45 ],
             "translation": [ 4, 0, -4 ],
             "scale": [ 0.40, 0.40, 0.40 ]
         }
