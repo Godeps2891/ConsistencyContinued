@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.1.0 - 2020-9-17
+### Added
+- Fence (Iron/Oak/Spruce/Birch/Jungle/Acacia/Dark Oak/Crimson/Warped)
+- Fence Gate (Iron/Oak/Spruce/Birch/Jungle/Acacia/Dark Oak/Crimson/Warped)
+- Trapdoors (Iron/Oak/Spruce/Birch/Jungle/Acacia/Dark Oak/Crimson/Warped)
+### Changed
+- Some items now flip correctly in the offhand rather than mirroring
+
 ## 3.0.2 - 2020-8-13
 ### Changed
 - Fixed door mirroring in offhand slot
