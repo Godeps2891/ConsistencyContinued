@@ -1,0 +1,7 @@
+{
+    "parent": "block/template/bell_wall",
+    "textures": {
+        "particle": "block/bell_bottom",
+        "bar": "block/dark_oak_planks"
+    }
+}
