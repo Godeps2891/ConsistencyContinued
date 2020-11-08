@@ -1,10 +1,22 @@
 # Changelog
 
+## 3.2.0 - 2020-11-7
+### Added
+- Buttons
+- Conduit
+- Grindstone
+### Changed
+- Bell block models no longer have stretched textures
+- Fence and fence gates rotated 90 degrees in fixed orientation
+- Fence item model now has same proportions as block model
+### Removed
+- Non-orientable trapdoors
+
 ## 3.1.0 - 2020-9-17
 ### Added
-- Fence (Iron/Oak/Spruce/Birch/Jungle/Acacia/Dark Oak/Crimson/Warped)
-- Fence Gate (Iron/Oak/Spruce/Birch/Jungle/Acacia/Dark Oak/Crimson/Warped)
-- Trapdoors (Iron/Oak/Spruce/Birch/Jungle/Acacia/Dark Oak/Crimson/Warped)
+- Fence
+- Fence Gate
+- Trapdoors
 ### Changed
 - Some items now flip correctly in the offhand rather than mirroring
 
@@ -24,31 +36,32 @@
 - Banners
 - Beds
 - Bell
-- Boats (Oak/Spruce/Birch/Jungle/Acacia/Dark Oak)
+- Boats
 - Brewing Stand
 - Cake
 - Campfire
-- Cauldron (Normal/Soul)
+- Cauldron
 - Comparator
-- Doors (Iron/Oak/Spruce/Birch/Jungle/Acacia/Dark Oak/Crimson/Warped)
+- Doors
+- Dragon Head
 - Enchanting Table
 - End Crystal
 - Flower Pot
 - Glass Pane
 - Hopper
 - Item Frame
-- Lantern (Normal/Soul)
+- Lantern
 - Lecturn
 - Lever
-- Minecarts (Empty/Hopper/Chest/Furnace/TNT/Command Block)
+- Minecarts
 - Painting
 - Repeator
 - Sea Pickle
 - Shield
-- Signs (Oak/Spruce/Birch/Jungle/Acacia/Dark Oak/Crimson/Warped)
+- Signs
 - Stained Glass Panes
-- Skulls (Player/Zombie/Creeper/Skeleton/Wither Skeleton/Ender Dragon)
-- Torch (Normal/Redstone/Soul)
+- Skulls
+- Torch
 - Tripwire Hook
 - Turtle Egg
 ### Changed
