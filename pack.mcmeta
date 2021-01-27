@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 6,
-        "description": "3D models for items"
+        "description": "3D models for items\n§6Place dependencies above"
     }
 }
