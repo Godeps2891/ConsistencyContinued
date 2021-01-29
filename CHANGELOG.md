@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.2.1 - 2021-1-28
+## Changed
+- End Crystal 1st/3rd person orientation adjusted to match GUI
+- Door 1st person orientation changed to remove awkward tilt
+- pack.mcmeta description now specifies to place dependencies above
+
 ## 3.2.0 - 2020-11-7
 ### Added
 - Buttons
@@ -39,7 +45,7 @@
 - Boats
 - Brewing Stand
 - Cake
-- Campfire
+- Campfires
 - Cauldron
 - Comparator
 - Doors
@@ -47,10 +53,10 @@
 - Enchanting Table
 - End Crystal
 - Flower Pot
-- Glass Pane
+- Glass Panes
 - Hopper
 - Item Frame
-- Lantern
+- Lanterns
 - Lecturn
 - Lever
 - Minecarts
@@ -59,9 +65,8 @@
 - Sea Pickle
 - Shield
 - Signs
-- Stained Glass Panes
 - Skulls
-- Torch
+- Torches
 - Tripwire Hook
 - Turtle Egg
 ### Changed
