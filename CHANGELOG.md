@@ -1,7 +1,13 @@
 # Changelog
 
+## 3.2.2 - 2022-9-5
+### Added
+- Support for most 1.17-1.19 stuff, Candles, mangrove related items, glow item frames, chest boats
+### Changed
+- Some lectern files to properly fix the inventory clipping
+
 ## 3.2.1 - 2021-1-28
-## Changed
+### Changed
 - End Crystal 1st/3rd person orientation adjusted to match GUI
 - Door 1st person orientation changed to remove awkward tilt
 - pack.mcmeta description now specifies to place dependencies above
