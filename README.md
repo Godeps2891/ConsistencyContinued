@@ -2,7 +2,7 @@
 A Minecraft resource pack that changes some item models from sprites into their block representation. Compatible with other texture packs, as long as they don't edit block/item models.
 Originally created by shoveln at https://github.com/shoveln/Consistency
 
-![image](https://user-images.githubusercontent.com/54289108/188403493-32051bf1-30b2-4c0e-8b0e-ee33ffbea935.png)
+![image](https://user-images.githubusercontent.com/54289108/188510469-9723f571-2c2c-4bf4-bf55-95ee25d60109.png)
 
 
 ### Manual installation
