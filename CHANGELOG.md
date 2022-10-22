@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.2.3 - 2022-10-22
+### Changed
+- Improved lighting for boats and flat item models
+
 ## 3.2.2 - 2022-9-5
 ### Added
 - Support for most 1.17-1.19 stuff, Candles, mangrove related items, glow item frames, chest boats
