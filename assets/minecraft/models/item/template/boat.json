@@ -1,5 +1,6 @@
 {
     "parent": "item/orientation/boat",
+    "gui_light": "front",
     "elements": [
         {   "from": [ 0, 0, 0 ],
             "to": [ 28, 3, 16 ],
