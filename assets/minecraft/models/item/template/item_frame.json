@@ -1,5 +1,6 @@
 {
     "parent": "item/orientation/item_frame",
+    "gui_light": "front",
     "elements": [
         {   "from": [ 3, 3, 8 ],
             "to": [ 13, 13, 8.5 ],
