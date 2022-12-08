@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.2.4 - 2022-12-8
+### Added
+- Blocks atlas file to have compatability with 1.19.3+
+### Changed
+- Pack format to 12
+
 ## 3.2.3 - 2022-10-22
 ### Changed
 - Improved lighting for boats and flat item models
