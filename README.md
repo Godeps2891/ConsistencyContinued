@@ -11,11 +11,11 @@ Download links are hosted on [Modrinth](https://modrinth.com/resourcepack/consis
 Navigate to the resourcepacks folder in your Minecraft 1.19 installation:
 
 ```
-$ git clone --single-branch --branch 1.19 https://github.com/Godeps2891/ConsistencyContinued
+$ git clone --single-branch --branch 1.19.3 https://github.com/Godeps2891/ConsistencyContinued
 ```
 
 To update to newer versions:
 
 ```
-$ git pull origin 1.19
+$ git pull origin 1.19.3
 ```
