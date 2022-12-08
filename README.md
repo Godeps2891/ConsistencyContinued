@@ -8,7 +8,7 @@ Originally created by shoveln at https://github.com/shoveln/Consistency
 ### Modrinth
 Download links are hosted on [Modrinth](https://modrinth.com/resourcepack/consistency).
 ### Manual installation
-Navigate to the resourcepacks folder in your Minecraft 1.19 installation:
+Navigate to the resourcepacks folder in your Minecraft 1.19.3 installation:
 
 ```
 $ git clone --single-branch --branch 1.19.3 https://github.com/Godeps2891/ConsistencyContinued
