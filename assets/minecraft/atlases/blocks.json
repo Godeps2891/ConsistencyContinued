@@ -2,18 +2,17 @@
     "sources": [
         {
             "type": "directory",
-            "source": "block",
-            "prefix": "block/"
+            "source": "entity/signs",
+            "prefix": "entity/signs/"
         },
         {
             "type": "directory",
-            "source": "item",
-            "prefix": "item/"
+            "source": "entity/boat",
+            "prefix": "entity/boat/"
         },
         {
-            "type": "directory",
-            "source": "entity",
-            "prefix": "entity/"
+            "type": "single",
+            "resource": "entity/minecart"
         },
         {
             "type": "single",
@@ -22,6 +21,18 @@
         {
             "type": "single",
             "resource": "painting/back"
+        },
+        {
+            "type": "single",
+            "resource": "entity/armorstand/wood"
+        },
+        {
+            "type": "single",
+            "resource": "entity/end_crystal/end_crystal"
+        },
+        {
+            "type": "single",
+            "resource": "entity/chest/normal"
         }
     ]
 }
