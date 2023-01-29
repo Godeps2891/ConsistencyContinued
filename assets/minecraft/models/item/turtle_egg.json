@@ -1,6 +1,0 @@
-{
-    "parent": "item/template/turtle_egg",
-    "textures": {
-        "egg": "block/turtle_egg"
-    }
-}

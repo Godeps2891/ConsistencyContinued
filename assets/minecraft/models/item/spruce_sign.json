@@ -1,6 +1,0 @@
-{
-    "parent": "item/template/sign",
-    "textures": {
-        "sign": "entity/signs/spruce"
-    }
-}

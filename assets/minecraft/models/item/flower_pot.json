@@ -1,7 +1,0 @@
-{
-    "parent": "item/template/flower_pot",
-    "textures": {
-        "flower_pot": "block/flower_pot",
-        "dirt": "block/dirt"
-    }
-}

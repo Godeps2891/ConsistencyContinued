@@ -1,7 +1,0 @@
-{
-    "parent": "item/template/brewing_stand",
-    "textures": {
-        "base": "block/brewing_stand_base",
-        "stand": "block/brewing_stand"
-    }
-}

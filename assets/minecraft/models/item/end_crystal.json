@@ -1,6 +1,0 @@
-{
-    "parent": "item/template/end_crystal",
-    "textures": {
-        "crystal": "entity/end_crystal/end_crystal"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "block/template/orientable_trapdoor_bottom",
-    "textures": {
-        "particle": "#texture"
-    }
-}

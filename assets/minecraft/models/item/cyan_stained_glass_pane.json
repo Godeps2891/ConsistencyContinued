@@ -1,7 +1,0 @@
-{
-    "parent": "item/template/pane",
-    "textures": {
-        "edge": "block/cyan_stained_glass_pane_top",
-        "pane": "block/cyan_stained_glass"
-    }
-}

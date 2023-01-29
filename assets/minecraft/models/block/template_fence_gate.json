@@ -1,6 +1,0 @@
-{   
-    "parent": "block/template/fence_gate",
-    "textures": {
-        "particle": "#texture"
-    }
-}

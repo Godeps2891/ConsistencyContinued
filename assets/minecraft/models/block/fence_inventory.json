@@ -1,6 +1,0 @@
-{   
-    "parent": "block/template/fence_inventory",
-    "textures": {
-        "particle": "#texture"
-    }
-}

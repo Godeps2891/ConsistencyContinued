@@ -1,8 +1,0 @@
-{
-    "parent": "item/template/hopper",
-    "textures": {
-        "top": "block/hopper_top",
-        "side": "block/hopper_outside",
-        "inside": "block/hopper_inside"
-    }
-}

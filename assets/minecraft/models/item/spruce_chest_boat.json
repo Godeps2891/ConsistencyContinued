@@ -1,7 +1,0 @@
-{
-    "parent": "item/template/chest_boat",
-    "textures": {
-        "boat": "entity/boat/spruce",
-        "chest": "entity/chest/normal"
-    }
-}

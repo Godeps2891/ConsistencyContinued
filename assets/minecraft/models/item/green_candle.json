@@ -1,6 +1,0 @@
-{
-  "parent": "item/template/candle",
-  "textures": {
-    "all": "block/green_candle"
-  }
-}

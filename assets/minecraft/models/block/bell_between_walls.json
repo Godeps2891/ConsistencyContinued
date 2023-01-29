@@ -1,7 +1,0 @@
-{
-    "parent": "block/template/bell_between_walls",
-    "textures": {
-        "particle": "block/bell_bottom",
-        "bar": "block/dark_oak_planks"
-    }
-}
