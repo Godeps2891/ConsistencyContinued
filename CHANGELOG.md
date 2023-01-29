@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.2.4b - 2023-01-23
+### Changed
+- Very late release containing optimized block atlas. 
+
 ## 3.2.4 - 2022-12-8
 ### Added
 - Blocks atlas file to have compatability with 1.19.3+
