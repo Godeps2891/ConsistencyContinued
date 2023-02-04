@@ -2,6 +2,7 @@
     "parent": "item/template/campfire",
     "textures": {
         "log": "block/campfire_log",
-        "lit_log": "minecraft:block/campfire_log_lit"
+        "lit_log": "minecraft:block/campfire_log_lit",
+        "fire": "minecraft:block/campfire_fire"
     }
 }
