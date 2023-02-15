@@ -1,0 +1,104 @@
+{
+	"parent": "item/orientation/boat",
+	"gui_light": "front",
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [28, 4, 16],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 0, 4, 0.875], "texture": "#boat"},
+				"east": {"uv": [0, 1, 0.5, 5], "rotation": 90, "texture": "#boat"},
+				"south": {"uv": [7.5, 0, 4, 1], "texture": "#boat"},
+				"west": {"uv": [4, 2, 4.5, 6], "rotation": 270, "texture": "#boat"},
+				"up": {"uv": [4.5, 1, 8, 5], "texture": "#boat"},
+				"down": {"uv": [0.5, 1, 4, 5], "rotation": 180, "texture": "#boat"}
+			}
+		},
+		{
+			"from": [0, 4, -2],
+			"to": [28, 8, 18],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 0, 4, 0.875], "texture": "#boat"},
+				"east": {"uv": [0, 1, 0.5, 6], "rotation": 90, "texture": "#boat"},
+				"south": {"uv": [7.5, 0, 4, 1], "texture": "#boat"},
+				"west": {"uv": [4, 1, 4.5, 6], "rotation": 270, "texture": "#boat"},
+				"up": {"uv": [4.5, 1, 8, 6], "texture": "#boat"},
+				"down": {"uv": [0.5, 1, 4, 6], "rotation": 180, "texture": "#boat"}
+			}
+		},
+		{
+			"from": [8, 5, -5],
+			"to": [10, 18, -3],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, -2]},
+			"faces": {
+				"north": {"uv": [2.5, 10.5, 4.125, 11], "rotation": 90, "texture": "#boat"},
+				"east": {"uv": [2.5, 10.5, 2.75, 7.25], "texture": "#boat"},
+				"south": {"uv": [0.625, 10.5, 2.25, 11], "rotation": 270, "texture": "#boat"},
+				"west": {"uv": [2.5, 10.5, 2.25, 7.25], "texture": "#boat"},
+				"up": {"uv": [2.25, 10.5, 2.5, 11], "rotation": 270, "texture": "#boat"}
+			}
+		},
+		{
+			"from": [8, 0, -4],
+			"to": [10, 5, -3],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, -2]},
+			"faces": {
+				"east": {"uv": [4.125, 11, 4.75, 10.75], "rotation": 90, "texture": "#boat"},
+				"south": {"uv": [4.125, 10.5, 4.75, 11], "rotation": 270, "texture": "#boat"},
+				"west": {"uv": [4.125, 11, 4.75, 10.75], "rotation": 90, "texture": "#boat"},
+				"down": {"uv": [4, 10.5, 4.125, 11], "rotation": 270, "texture": "#boat"}
+			}
+		},
+		{
+			"from": [5, -2, -5],
+			"to": [11, 5, -4],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, -2]},
+			"faces": {
+				"north": {"uv": [1, 7.75, 1.875, 9.25], "rotation": 90, "texture": "#boat"},
+				"east": {"uv": [1, 7.75, 1.125, 6], "texture": "#boat"},
+				"south": {"uv": [0, 7.75, 0.875, 9.25], "rotation": 270, "texture": "#boat"},
+				"west": {"uv": [0.875, 7.75, 1, 6], "texture": "#boat"},
+				"up": {"uv": [0.875, 7.75, 1, 9.25], "rotation": 270, "texture": "#boat"},
+				"down": {"uv": [1.875, 7.75, 2, 9.25], "rotation": 270, "texture": "#boat"}
+			}
+		},
+		{
+			"from": [8, 5, 19],
+			"to": [10, 18, 21],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 8, 18]},
+			"faces": {
+				"north": {"uv": [7.5, 10.5, 9.125, 11], "rotation": 90, "texture": "#boat"},
+				"east": {"uv": [7.5, 10.5, 7.75, 7.25], "texture": "#boat"},
+				"south": {"uv": [5.625, 10.5, 7.25, 11], "rotation": 270, "texture": "#boat"},
+				"west": {"uv": [7.5, 10.5, 7.25, 7.25], "texture": "#boat"},
+				"up": {"uv": [7.25, 10.5, 7.5, 11], "rotation": 270, "texture": "#boat"}
+			}
+		},
+		{
+			"from": [8, 0, 19],
+			"to": [10, 5, 20],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 8, 18]},
+			"faces": {
+				"north": {"uv": [4.125, 10.5, 4.75, 11], "rotation": 90, "texture": "#boat"},
+				"east": {"uv": [4.125, 11, 4.75, 10.75], "rotation": 90, "texture": "#boat"},
+				"west": {"uv": [4.75, 11, 4.125, 10.75], "rotation": 270, "texture": "#boat"},
+				"down": {"uv": [4.75, 10.5, 4.875, 11], "rotation": 270, "texture": "#boat"}
+			}
+		},
+		{
+			"from": [5, -2, 20],
+			"to": [11, 5, 21],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 8, 18]},
+			"faces": {
+				"north": {"uv": [6, 7.75, 6.875, 9.25], "rotation": 90, "texture": "#boat"},
+				"east": {"uv": [6, 7.75, 6.125, 6], "texture": "#boat"},
+				"south": {"uv": [5, 7.75, 5.875, 9.25], "rotation": 270, "texture": "#boat"},
+				"west": {"uv": [5.875, 7.75, 6, 6], "texture": "#boat"},
+				"up": {"uv": [5.875, 7.75, 6, 9.25], "rotation": 270, "texture": "#boat"},
+				"down": {"uv": [6.875, 7.75, 7, 9.25], "rotation": 270, "texture": "#boat"}
+			}
+		}
+	]
+}
