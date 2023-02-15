@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/hanging_sign",
+    "textures": {
+        "sign": "entity/signs/hanging/warped"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/sign",
+    "textures": {
+        "sign": "entity/signs/cherry"
+    }
+}
