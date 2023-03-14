@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.3.0 - tba
+## 3.3.0 - 2023-03-23
 ### Added
 - Support for all present 1.20 content: Hanging signs, Rafts, Bamboo and Cherry wood items
 - Custom models for amethysts and nether sprouts so they no longer float
