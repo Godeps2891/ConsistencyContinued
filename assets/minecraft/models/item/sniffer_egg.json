@@ -1,0 +1,11 @@
+{
+    "parent": "item/template/sniffer_egg",
+    "textures": {
+        "egg_down": "block/sniffer_egg_not_cracked_bottom",
+        "egg_up": "block/sniffer_egg_not_cracked_top",
+        "egg_north": "block/sniffer_egg_not_cracked_north",
+        "egg_east": "block/sniffer_egg_not_cracked_east",
+        "egg_south": "block/sniffer_egg_not_cracked_south",
+        "egg_west": "block/sniffer_egg_not_cracked_west"
+    }
+}
