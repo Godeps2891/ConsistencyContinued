@@ -8,14 +8,14 @@ Originally created by shoveln at https://github.com/shoveln/Consistency
 ### Modrinth
 Download links are hosted on [Modrinth](https://modrinth.com/resourcepack/consistency).
 ### Manual installation
-Navigate to the resourcepacks folder in your Minecraft 1.19.4 installation:
+Navigate to the resourcepacks folder in your Minecraft 1.20 installation:
 
 ```
-$ git clone --single-branch --branch 1.19.4 https://github.com/Godeps2891/ConsistencyContinued
+$ git clone --single-branch --branch 1.20 https://github.com/Godeps2891/ConsistencyContinued
 ```
 
 To update to newer versions:
 
 ```
-$ git pull origin 1.19.4
+$ git pull origin 1.20
 ```
