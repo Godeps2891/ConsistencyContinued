@@ -11,11 +11,11 @@ Download links are hosted on [Modrinth](https://modrinth.com/resourcepack/consis
 Navigate to the resourcepacks folder in your Minecraft 1.21.1 installation:
 
 ```
-$ git clone --single-branch --branch main https://github.com/Godeps2891/ConsistencyContinued
+$ git clone --single-branch --branch 1.21.1 https://github.com/Godeps2891/ConsistencyContinued
 ```
 
 To update to newer versions:
 
 ```
-$ git pull origin main
+$ git pull origin 1.21.1
 ```
